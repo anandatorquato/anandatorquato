@@ -1,4 +1,4 @@
-<h1> Hiiiiiii, feel free to explore this land 👽 </h1>
+<h1 align="center"> Hiiiiiii, feel free to explore this land 👽 </h1>
 
 <ul> 
   <li>👧🏽 Hi, I’m @anandatorquato</li>
