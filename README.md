@@ -1,4 +1,3 @@
-<h1 align="center"> Hellooo, feel free to explore 👽 </h1>
 
 <ul> 
   <li>👧🏽 Hi, I’m @anandatorquato</li>
