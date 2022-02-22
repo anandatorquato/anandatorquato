@@ -1,7 +1,7 @@
 
 <ul> 
   <li>👧🏽 Hi, I’m @anandatorquato</li>
-  <li>🖥️  Pursuing a career in Tech/li>
+  <li>🖥️  Pursuing a career in Tech</li>
   <li>👩🏽‍💻 JavaScript student</>
 </ul>
 
