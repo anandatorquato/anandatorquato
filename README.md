@@ -1,8 +1,8 @@
 
 <ul> 
   <li>👧🏽 Hi, I’m @anandatorquato</li>
-  <li>🖥️ I’m interested in pursuing a career on the technological field, especially in the realms of Web Development</li>
-  <li>👩🏽‍💻 I’m currently learning HTML5 | CSS3 & JavaScript</>
+  <li>🖥️  Pursuing a career in Tech/li>
+  <li>👩🏽‍💻 JavaScript student</>
 </ul>
 
 ##
